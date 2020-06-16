@@ -18,6 +18,7 @@ sudo apt-get update
 ## Usage
 
 ```bash
+git clone https://github.com/kohnl/Simple-Vagrant-Scripts.git
 cd Simple-Vagrant-Scripts/Single-Vm
 vagrant init
 vagrant up
